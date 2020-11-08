@@ -13,3 +13,7 @@ print(C)
 from objetos import CARRO
 D = CARRO('VW Up', 2016, 5)
 print(D)
+
+from objetos import GARRAFA
+E = GARRAFA('TINTO', 1.5, 1990,'ARGENTO')
+print(E)
